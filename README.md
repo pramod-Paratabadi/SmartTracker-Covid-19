@@ -64,15 +64,7 @@ For the better conversation we will be looking to work more on chatbot.
 
 ## Working of Application 
 ###### Vedio Link: [SmartTracker-COVID-19](https://youtu.be/uLBoUSFFFdQ)
-## ScreenShots
 
+## For PPT and App ScreenShots
+[SmartTracker-COVID-19 PPT with Screenshots](https://drive.google.com/file/d/1DE2ER_rR9lXAidpydrjn1zPl8ohQM_qS/view?usp=sharing)
 
-###### ![News section : Recent news with scrollview](News.jpg) 
-###### ![Worldwide Cases of COVID-19](worldwide.jpg) 
-###### ![Worldwide Cases of COVID-19 Dashboard (1)](worldwide-1.jpg) 
-###### ![Worldwide Cases of COVID-19 Dashboard (2)](worldwide-2.jpg) 
-###### ![Worldwide Cases of COVID-19 Statistics (2)](worldwide-stat.jpg) 
-###### ![Impact of COVID-19 in India StateWise](india-impact.jpg)
-###### ![Impact of COVID-19 in India StateWise Stats](worldwide-stat-1.jpg)
-###### ![Do the Five](about.jpg) 
-###### ![About Us and Contact](about-1.jpg) 
