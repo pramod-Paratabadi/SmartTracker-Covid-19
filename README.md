@@ -60,6 +60,7 @@ For the better conversation we will be looking to work more on chatbot.
 ###### For the live data of Indian COVID-19 cases we have used :
 - Coronavirus Monitor
 - Ministry of Health and Welfare of India
+- Worldometer Data
 
 
 ## Working of Application 
