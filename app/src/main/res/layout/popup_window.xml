@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#AA3E63"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="47dp">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About this App:"
+            android:textColor="#DFCDCD"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:paddingStart="250dp"
+            android:paddingLeft="330dp"
+            android:src="@drawable/exit" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="117dp"
+        android:text="\nThis App provides the Information and Awareness related to Corona Virus [ COVID-19 ]"
+        android:textColor="@android:color/primary_text_light_nodisable"
+        android:textColorHighlight="@color/navigationBarColor"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/artifika" />
+
+
+
+
+</LinearLayout>
