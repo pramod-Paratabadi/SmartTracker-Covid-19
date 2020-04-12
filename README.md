@@ -66,6 +66,6 @@ For the better conversation we will be looking to work more on chatbot.
 ## Working of Application 
 ###### Video Link: [SmartTracker-COVID-19](https://youtu.be/uLBoUSFFFdQ)
 
-## For PPT and App ScreenShots
+## See PPT and App ScreenShots
 [SmartTracker-COVID-19 PPT with Screenshots](https://drive.google.com/file/d/1DE2ER_rR9lXAidpydrjn1zPl8ohQM_qS/view?usp=sharing)
 
