@@ -21,7 +21,7 @@ public class WebView1 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Kommunicate.init(this, "177c9ffe594c9dd7a5f9f036632a2838c");
+        Kommunicate.init(this, "Use your own google API-Key");
         agentList.add("72b5a579-6dbc-44c9-9c6e-fe6590b4d0fa"); //add your agentID
         botList.add("pramodp-mhrks");
 
