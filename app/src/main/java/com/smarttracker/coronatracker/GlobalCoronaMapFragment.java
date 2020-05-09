@@ -23,7 +23,7 @@ public class GlobalCoronaMapFragment extends Fragment {
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
     private WebView webView;
-    private  String Load_url="https://www.worldometers.info/coronavirus/";
+    private  String Load_url="https://cdmoro.github.io/covid-19-stats/";
             //"https://who.sprinklr.com";
             //"https://www.worldometers.info/coronavirus";
     private final static long threshold = 150000;
