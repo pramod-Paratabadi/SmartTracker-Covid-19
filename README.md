@@ -10,7 +10,9 @@
 1. Pramod Paratabadi – 9158038227
 2. Supriya Madiwal - 9766844410
 
-## Inspiration : Now a days whole world facing the novel Corona Virus, to track the spread of novel Corona Virus country-wise, details of confirmed cases, deaths and Recovered, awareness regarding COVID-19. This Android app was created to spread awareness about the covid -19 virus.
+## Inspiration : 
+
+Now a days whole world facing the novel Corona Virus, to track the spread of novel Corona Virus country-wise, details of confirmed cases, deaths and Recovered, awareness regarding COVID-19. This Android app was created to spread awareness about the covid -19 virus.
 
 ## What it does : 
 The Android app named as ‘SmartTracker-Covid-19’ created to spread awareness about the COVID -19 virus. App includes following functionalities:
@@ -45,7 +47,7 @@ For the better conversation we will be looking to work more on chatbot.
 - [Android Studio](https://developer.android.com/studio)
 
 ## Download App here
-[SmartTrack_COVID-19](https://drive.google.com/file/d/1E2oLPJXHjSEnifjDUILjNtz3sLgR1i_L/view?usp=sharing)
+[SmartTrack_COVID-19](https://drive.google.com/file/d/1mOaHrWCJIqSCRTncZsprG407ZzXNw1Em/view?usp=sharing)
 
 ###### For this idea we have used following tech stack :
 - IDE : [Android Studio](https://developer.android.com/studio)
