@@ -7,8 +7,8 @@
 ###### Theme Name  :   COVID-19 and Quarantine
 ###### College Name :  Walchand Institute of Technology, Solapur
 ###### Team Details:
-1. Pramod Paratabadi – 9158038227
-2. Supriya Madiwal - 9766844410
+1. Pramod Paratabadi – pramodp151999@gmail.com
+2. Supriya Madiwal - supriyasmadiwal@gmail.com
 
 ## Inspiration : 
 
